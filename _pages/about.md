@@ -7,6 +7,16 @@ redirect_from:
   - /about.html
 ---
 
+Yingnan Zhao is a Ph.D. student in Computer Engineering. His research focuses on the design of high-performance and energy-efficient hardware architectures for modern artificial intelligence systems.
+
+His work lies at the intersection of computer architecture, AI accelerators, graph neural networks, and large language models. His research investigates architectural techniques that improve scalability, hardware utilization, and data reuse for emerging machine learning workloads.
+
+His recent research explores accelerator architectures for graph neural network inference, including both static and dynamic graph models. He is also interested in architectural support for large-scale deep learning models and large language model workloads.
+
+His work has appeared in venues including DAC and IEEE TCAD.
+
+Research interests: Computer Architecture, High-Performance Computing, Algorithm-Architecture Co-Designs, Domain Specific Architectures for Emerging AI applications, Large Language Models, Graph Neural Networks, and Deep 
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
