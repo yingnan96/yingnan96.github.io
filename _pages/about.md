@@ -11,7 +11,7 @@ Yingnan Zhao is currently a Ph.D. candidate from the Department of Electrical an
 
 ## Research Interests
 
-Computer Architecture, High-Performance Computing, Algorithm-Architecture Co-Designs, Domain Specific Architectures for Emerging AI applications, Large Language Models, Graph Neural Networks, and Deep Learning
+Computer Architecture, High-Performance Computing, Algorithm-Architecture Co-Designs, Domain Specific Architectures for Emerging AI applications, Large Language Models, Graph Neural Networks, and Deep Learning.
 
 ## Prospective Students
 
