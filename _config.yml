@@ -22,7 +22,7 @@ repository               : "yingnan96/yingnan96.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profil.jpg"
+  avatar           : "images/Photo.jpg"
   name             : "Yingnan Zhao"
   bio              : "A Ph.D. Candidate in George Washington University"
   location         : "Washington, D.C."
