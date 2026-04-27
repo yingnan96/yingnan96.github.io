@@ -23,13 +23,13 @@ repository               : "https://yingnan96.github.io/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Yingnan Zhao"
+  pronouns         : # he/his"  
+  bio              : "A Ph.D. Candidate in George Washington University"
   location         : "Washington, D.C."
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "George Washington University"
+  uri              : 
+  email            : "yzhao96@gwu.edu" 
 
   # Academic websites
   academia         : # URL
