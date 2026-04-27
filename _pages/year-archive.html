@@ -1,19 +1,35 @@
 ---
 layout: archive
-permalink: /year-archive/
-title: "Blog posts"
+title: "Service"
+permalink: /service/
 author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
 ---
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+<h2>Technical Program Committee</h2>
+<ul>
+  <li>ICS, 2026</li>
+  <li>ICDCS, 2025, 2026</li>
+  <li>IPDPS, 2025</li>
+  <li>ACM HPDC, 2023</li>
+  <li>ISC, 2023</li>
+  <li>Great Lakes Symposium on VLSI (GLSVLSI), 2026</li>
+  <li>Learning on Graphs Conference (LoG), 2022, 2023, 2024</li>
+</ul>
+
+<h2>Reviewer</h2>
+
+<h3>Conference Reviewer and Sub-Reviewer</h3>
+<ul>
+  <li>IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026</li>
+  <li>ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2024, 2026</li>
+  <li>IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025, 2026</li>
+  <li>ACM/IEEE International Symposium on Computer Architecture (ISCA), 2025</li>
+</ul>
+
+<h3>Journal Reviewer</h3>
+<ul>
+  <li>Integration, the VLSI Journal, 2026</li>
+  <li>IEEE Transaction on Computers, 2025, 2026</li>
+  <li>IEEE Transactions on Sustainable Computing, 2024, 2025</li>
+  <li>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2025</li>
+</ul>
