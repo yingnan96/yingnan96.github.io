@@ -17,7 +17,7 @@ Computer Architecture, High-Performance Computing, Algorithm-Architecture Co-Des
 
 We are always expecting self-motivated and hardworking students. Please contact me with your CV and Transcripts if you are interested in my work or pursuing a Ph.D. degree.
 
-📧 **Email:** yzhao96@gwu.edu
+📧 **Email:** yingnan.zhao@utsa.edu
 
 ## News
 
