@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Yingnan Zhao"
 title_separator          : "-"
 name                     : &name "Yingnan Zhao"
-description              : &description "A PhD student at George Washington University"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Assistant Professor at the University of Texas at San Antonio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yingnan96.github.io
 baseurl                  : 
 repository               : "yingnan96/yingnan96.github.io"
