@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "Photo.jpg"
   name             : "Yingnan Zhao"
-  bio              : "A Ph.D. Candidate in George Washington University"
+  bio              : "Assistant Professor at the University of Texas at San Antonio"
   location         : "Washington, D.C."
-  employer         : "George Washington University"
+  employer         : "University of Texas at San Antonio"
   uri              : 
-  email            : "yzhao96@gwu.edu" 
+  email            : "yingnan.zhao@utsa.edu" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=vR4jgX8AAAAJ&hl=en&oi=sra"
