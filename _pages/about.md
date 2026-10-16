@@ -20,5 +20,5 @@ We are always expecting self-motivated and hardworking students. Please contact 
 📧 **Email:** yingnan.zhao@utsa.edu
 
 ## News
-[October. 2026] One paper is accepted by IEEE Computer Architecture Letters.
+[October. 2026] One paper is accepted by IEEE Computer Architecture Letters. \
 [April. 2026] One paper is accepted by IEEE Transactions on Parallel and Distributed Systems.
